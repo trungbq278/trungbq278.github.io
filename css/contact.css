@@ -1,0 +1,76 @@
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+/* Start Slider css*/
+.contact-slider{
+	width: 100%;
+	height: 500px;
+	background-image: url('../images/banner.jpg');
+	background-position: left top; 
+}
+/* End Slider css*/
+/* Start Contact-Us css*/
+.contact-us{
+	width: 100%;
+}
+.contact-content{
+	width: 80%;
+	margin: 0 auto;
+	padding-bottom: 4rem;
+}
+.contact-title{
+	text-align: center;
+}
+.contact-title h1{
+	font-weight: bold;
+	margin-bottom: 0.3rem;
+}
+.contact-title span{
+	font-size: 0.9rem;
+	letter-spacing: 0.3rem;
+	color: #b06010;
+}
+.contact-info{
+	margin-top: 4rem;
+}
+.contact-info-item{
+	float: left;
+	width: 50%;
+}
+.contact-info-item h2{
+	color: #b06010;
+	font-weight: 400;
+}
+.field-group label{
+	font-size: 0.8rem;
+	color: #878787;
+}
+.field-group input{
+	width: 90%;
+	height: 2rem;
+	margin: 1rem 0;
+	border: 1px solid black;
+}
+.contact-form button{
+	display: block;
+	width: 90%;
+	padding: 0.6rem 1.5rem;
+	background-color: #204b87;
+	border: none;
+	color: white;
+	font-size: 1rem;
+}
+.contact-detail span{
+	color: #878787;
+}
+.contact-detail h2{
+	margin-bottom: 4rem;
+}
+/* End Contact-Us css*/
+/* Start Contact-Map css*/
+/* End Contact-Map css*/
+.contact-map{
+	width: 100%;
+	height: 500px;
+}
